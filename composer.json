@@ -1,5 +1,5 @@
 {
-    "name": "knik/g-rcon",
+    "name": "tbi/g-rcon",
     "type": "library",
     "description": "RCON Library for game servers management",
     "keywords": [
@@ -8,18 +8,18 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Nikita Kuznetsov",
-            "email": "nikita.hldm@gmail.com"
+            "name": "Hugh Armstrong",
+            "email": "tbi@theblobinc.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Knik\\GRcon\\": "src/"
+            "tbi\\GRcon\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Knik\\GRcon\\Tests\\": "tests/"
+            "tbi\\GRcon\\Tests\\": "tests/"
         }
     },
     "require": {
