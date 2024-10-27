@@ -26,7 +26,7 @@
         "php": ">=7.3",
         "ext-openssl": "*",
         "ext-sockets": "*",
-        "phpseclib/phpseclib": "~2.0",
+        "phpseclib/phpseclib": "~3.0",
         "clue/socket-raw": "1.5.0"
     },
     "require-dev": {
